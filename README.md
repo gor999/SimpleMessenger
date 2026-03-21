@@ -1,2 +1,7 @@
-Its a similiar messenger with browser and terminal, its first version of this program 
-for build just write in terminal c++ main.cpp
+This is a simple messenger-like application that includes a browser and a terminal. It represents the first version of the program.
+
+To build it, simply run the following command in the terminal:
+
+c++ main.cpp
+
+This was my first project, written in 2022.
